@@ -57,13 +57,13 @@
         "editor.gutter.background": "#000000",
         "editor.subheader.background": "#000000",
         "editor.active_line.background": "#c8a7fa08",
-        "editor.highlighted_line.background": "#51556d",
+        "editor.highlighted_line.background": "#ad8aa6",
         "editor.line_number": "#fdf6ff",
         "editor.active_line_number": "#ffffff",
         "editor.invisible": "#f8f8f230",
         "editor.wrap_guide": "#f8f8f228",
         "editor.active_wrap_guide": "#aa82e266",
-        "editor.document_highlight.read_background": "#c8a7fa5c",
+        "editor.document_highlight.read_background": "#373737",
         "editor.document_highlight.write_background": "#44475aff",
         "link_text.hover": "#8be9fdff",
         "conflict": "#dec184ff",
@@ -110,8 +110,8 @@
         "players": [
           {
             "cursor": "#bd93f9ff",
-            "background": "#bd93f9ff",
-            "selection": "#bd93f933"
+            "background": "#373737",
+            "selection": "#373737"
           },
           {
             "cursor": "#50fa7bff",
@@ -394,3 +394,4 @@
     }
   ]
 }
+
